@@ -36,7 +36,7 @@ To run maven from command prompt, this is necessary. Update the PATH variable wi
 * Run mvn compile command. it will compile the project and download required jar files of selenium and testng to local repository folder. Make sure build is SUCCESS.
 
 ##### Step 6: Run Selenium Script
-   In Command prompt , run either mvn package or mvn test command to run the selenium test. 
+   In Command prompt , run either '**mvn package**' or '**mvn test**' command to run the selenium test. 
    It will validate and compile maven project and then run selenium webdriver test cases. 
 	 
 	 
