@@ -1,4 +1,4 @@
-# DKatalisTabAssignments 1
+# DKatalisLabAssignments 1
  Script is written in Selenium with java language
 ## **Steps run the scripts from command line**
 
