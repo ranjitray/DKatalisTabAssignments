@@ -6,7 +6,7 @@
 
 ##### Step 1: Install JDK and Add 'JAVA_HOME' environment variable	
 
-	   Install Java from (https://www.oracle.com/java/technologies/javase-downloads.html) and add/update JAVA_HOME variable to JDK installation folder.
+Install Java from (https://www.oracle.com/java/technologies/javase-downloads.html) and add/update JAVA_HOME variable to JDK installation folder.
 		 
 ##### Step 2: Download Maven and add ‘MAVEN_HOME’ and ‘M2_HOME’ Environment Variables
    Download maven from (https://maven.apache.org/download.cgi) this location and extract to your local directory
