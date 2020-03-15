@@ -19,6 +19,8 @@ Set the M2_HOME and MAVEN_HOME variable to maven installation folder
 ##### Step 3: Include ‘maven/bin’ directory in ‘PATH’ variable
 To run maven from command prompt, this is necessary. Update the PATH variable with 'Maven-installation/bin' directory.
 
+![image](https://user-images.githubusercontent.com/8327438/76708393-6f2a2680-671c-11ea-94e2-2426ee55b822.png)
+
 ##### Step 4: Verify maven in Console
     Go to Command prompt and type mvn -version
 		C:\Users\xxx>mvn -version
