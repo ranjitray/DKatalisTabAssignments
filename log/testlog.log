@@ -1,0 +1,76 @@
+2020-03-14 01:55:35,942 - com.qa.BaseClass.BaseClass -INFO - Completed Successful transaction
+2020-03-14 01:55:36,601 - com.qa.BaseClass.BaseClass -INFO - Verified Success transaction message successfully
+2020-03-14 01:55:36,666 - com.qa.BaseClass.BaseClass -INFO - Successfully clicked on Buy Button
+2020-03-14 01:55:41,900 - com.qa.BaseClass.BaseClass -INFO - Completed failed tranaction!!
+2020-03-14 01:55:42,590 - com.qa.BaseClass.BaseClass -INFO - Verified failed transaction message successfully
+2020-03-14 01:55:43,139 - com.qa.BaseClass.BaseClass -INFO - verify Failed Transaction Message Successfully
+2020-03-14 02:05:23,923 - com.qa.BaseClass.BaseClass -INFO - Completed Successful transaction
+2020-03-14 02:05:24,622 - com.qa.BaseClass.BaseClass -INFO - Verified Success transaction message successfully
+2020-03-14 02:05:24,722 - com.qa.BaseClass.BaseClass -INFO - Successfully clicked on Buy Button
+2020-03-14 02:05:30,540 - com.qa.BaseClass.BaseClass -INFO - Completed failed tranaction!!
+2020-03-14 02:05:31,170 - com.qa.BaseClass.BaseClass -INFO - Verified failed transaction message successfully
+2020-03-14 02:05:31,747 - com.qa.BaseClass.BaseClass -INFO - verify Failed Transaction Message Successfully
+2020-03-14 02:05:31,748 - com.qa.BaseClass.BaseClass -INFO - com.qa.Tests.SuccessfulPaymentTest
+2020-03-14 02:09:09,122 - java.lang.Class -INFO - Completed Successful transaction
+2020-03-14 02:09:09,776 - java.lang.Class -INFO - Verified Success transaction message successfully
+2020-03-14 02:09:09,852 - java.lang.Class -INFO - Successfully clicked on Buy Button
+2020-03-14 02:09:16,089 - java.lang.Class -INFO - Completed failed tranaction!!
+2020-03-14 02:09:16,785 - java.lang.Class -INFO - Verified failed transaction message successfully
+2020-03-14 02:09:17,300 - java.lang.Class -INFO - verify Failed Transaction Message Successfully
+2020-03-14 02:09:17,303 - java.lang.Class -INFO - [Ljava.lang.reflect.Method;@79f227a9
+2020-03-14 02:14:27,205 - com.qa.BaseClass.BaseClass -INFO - Completed Successful transaction
+2020-03-14 02:14:27,744 - com.qa.BaseClass.BaseClass -INFO - Verified Success transaction message successfully
+2020-03-14 02:14:27,806 - com.qa.BaseClass.BaseClass -INFO - Successfully clicked on Buy Button
+2020-03-14 02:14:33,499 - com.qa.BaseClass.BaseClass -INFO - Completed failed tranaction!!
+2020-03-14 02:14:34,211 - com.qa.BaseClass.BaseClass -INFO - Verified failed transaction message successfully
+2020-03-14 02:14:34,752 - com.qa.BaseClass.BaseClass -INFO - verify Failed Transaction Message Successfully
+2020-03-14 02:14:34,752 - com.qa.BaseClass.BaseClass -INFO - Verify Failed transaction message successfully
+2020-03-15 12:40:52,115 - com.qa.BaseClass.BaseClass -INFO - Completed Successful transaction
+2020-03-15 12:40:52,902 - com.qa.BaseClass.BaseClass -INFO - Verified Success transaction message successfully
+2020-03-15 12:40:52,996 - com.qa.BaseClass.BaseClass -INFO - Successfully clicked on Buy Button
+2020-03-15 12:40:58,366 - com.qa.BaseClass.BaseClass -INFO - Completed failed tranaction!!
+2020-03-15 12:40:58,918 - com.qa.BaseClass.BaseClass -INFO - Verified failed transaction message successfully
+2020-03-15 12:40:59,376 - com.qa.BaseClass.BaseClass -INFO - verify Failed Transaction Message Successfully
+2020-03-15 12:40:59,377 - com.qa.BaseClass.BaseClass -INFO - Verify Failed transaction message successfully
+2020-03-15 12:41:54,098 - com.qa.BaseClass.BaseClass -INFO - Completed Successful transaction
+2020-03-15 12:41:54,742 - com.qa.BaseClass.BaseClass -INFO - Verified Success transaction message successfully
+2020-03-15 12:41:54,836 - com.qa.BaseClass.BaseClass -INFO - Successfully clicked on Buy Button
+2020-03-15 12:42:00,069 - com.qa.BaseClass.BaseClass -INFO - Completed failed tranaction!!
+2020-03-15 12:42:00,645 - com.qa.BaseClass.BaseClass -INFO - Verified failed transaction message successfully
+2020-03-15 12:42:01,138 - com.qa.BaseClass.BaseClass -INFO - verify Failed Transaction Message Successfully
+2020-03-15 12:42:01,139 - com.qa.BaseClass.BaseClass -INFO - Verify Failed transaction message successfully
+2020-03-15 12:48:11,387 - com.qa.BaseClass.BaseClass -INFO - Completed Successful transaction
+2020-03-15 12:48:12,002 - com.qa.BaseClass.BaseClass -INFO - Verified Success transaction message successfully
+2020-03-15 12:48:12,082 - com.qa.BaseClass.BaseClass -INFO - Successfully clicked on Buy Button
+2020-03-15 12:48:16,976 - com.qa.BaseClass.BaseClass -INFO - Completed failed tranaction!!
+2020-03-15 12:48:17,558 - com.qa.BaseClass.BaseClass -INFO - Verified failed transaction message successfully
+2020-03-15 12:48:18,042 - com.qa.BaseClass.BaseClass -INFO - verify Failed Transaction Message Successfully
+2020-03-15 12:48:18,043 - com.qa.BaseClass.BaseClass -INFO - Verify Failed transaction message successfully
+2020-03-15 13:03:43,968 - com.qa.BaseClass.BaseClass -INFO - Completed Successful transaction
+2020-03-15 13:03:44,439 - com.qa.BaseClass.BaseClass -INFO - Verified Success transaction message successfully
+2020-03-15 13:03:44,486 - com.qa.BaseClass.BaseClass -INFO - Successfully clicked on Buy Button
+2020-03-15 13:03:49,250 - com.qa.BaseClass.BaseClass -INFO - Completed failed tranaction!!
+2020-03-15 13:03:49,746 - com.qa.BaseClass.BaseClass -INFO - Verified failed transaction message successfully
+2020-03-15 13:03:50,163 - com.qa.BaseClass.BaseClass -INFO - verify Failed Transaction Message Successfully
+2020-03-15 13:03:50,163 - com.qa.BaseClass.BaseClass -INFO - Verify Failed transaction message successfully
+2020-03-15 13:05:41,115 - com.qa.BaseClass.BaseClass -INFO - Completed Successful transaction
+2020-03-15 13:05:41,597 - com.qa.BaseClass.BaseClass -INFO - Verified Success transaction message successfully
+2020-03-15 13:05:41,637 - com.qa.BaseClass.BaseClass -INFO - Successfully clicked on Buy Button
+2020-03-15 13:05:46,116 - com.qa.BaseClass.BaseClass -INFO - Completed failed tranaction!!
+2020-03-15 13:05:46,597 - com.qa.BaseClass.BaseClass -INFO - Verified failed transaction message successfully
+2020-03-15 13:05:47,019 - com.qa.BaseClass.BaseClass -INFO - verify Failed Transaction Message Successfully
+2020-03-15 13:05:47,020 - com.qa.BaseClass.BaseClass -INFO - Verify Failed transaction message successfully
+2020-03-15 13:06:55,711 - com.qa.BaseClass.BaseClass -INFO - Completed Successful transaction
+2020-03-15 13:06:56,231 - com.qa.BaseClass.BaseClass -INFO - Verified Success transaction message successfully
+2020-03-15 13:06:56,274 - com.qa.BaseClass.BaseClass -INFO - Successfully clicked on Buy Button
+2020-03-15 13:07:00,481 - com.qa.BaseClass.BaseClass -INFO - Completed failed tranaction!!
+2020-03-15 13:07:00,968 - com.qa.BaseClass.BaseClass -INFO - Verified failed transaction message successfully
+2020-03-15 13:07:01,380 - com.qa.BaseClass.BaseClass -INFO - verify Failed Transaction Message Successfully
+2020-03-15 13:07:01,380 - com.qa.BaseClass.BaseClass -INFO - Verify Failed transaction message successfully
+2020-03-15 18:17:49,030 - com.qa.BaseClass.BaseClass -INFO - Completed Successful transaction
+2020-03-15 18:17:49,512 - com.qa.BaseClass.BaseClass -INFO - Verified Success transaction message successfully
+2020-03-15 18:17:49,563 - com.qa.BaseClass.BaseClass -INFO - Successfully clicked on Buy Button
+2020-03-15 18:17:54,381 - com.qa.BaseClass.BaseClass -INFO - Completed failed tranaction!!
+2020-03-15 18:17:54,904 - com.qa.BaseClass.BaseClass -INFO - Verified failed transaction message successfully
+2020-03-15 18:17:55,345 - com.qa.BaseClass.BaseClass -INFO - verify Failed Transaction Message Successfully
+2020-03-15 18:17:55,346 - com.qa.BaseClass.BaseClass -INFO - Verify Failed transaction message successfully

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.qa.Tests.SuccessfulPaymentTest">
+        <methods>
+          <include name="VerifyFailedTransactionMessage"/>
+          <include name="VerifySuccessMessage"/>
+          <include name="VerifyFailedTransactionBankMessage"/>
+          <include name="SuccessfulPaymentTransaction"/>
+          <include name="setup"/>
+          <include name="Exit"/>
+          <include name="FailedPaymentTransaction"/>
+          <include name="ReportSetup"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- com.qa.Tests.SuccessfulPaymentTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

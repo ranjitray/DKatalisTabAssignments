@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[*******Screenshot captured for Successfull Transaction*********]]>
+    </line>
+    <line>
+      <![CDATA[*******Screenshot captured for Verify Success Message*********]]>
+    </line>
+    <line>
+      <![CDATA[*******Screenshot captured for Verify Faileds Message*********]]>
+    </line>
+    <line>
+      <![CDATA[*******Screenshot captured for Verify Failed Bank Message*********]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-03-15T07:36:44Z" name="Default suite" finished-at="2020-03-15T07:37:02Z" duration-ms="17353">
+    <groups>
+    </groups>
+    <test started-at="2020-03-15T07:36:44Z" name="Default test" finished-at="2020-03-15T07:37:02Z" duration-ms="17353">
+      <class name="com.qa.Tests.SuccessfulPaymentTest">
+        <test-method is-config="true" signature="ReportSetup()[pri:0, instance:com.qa.Tests.SuccessfulPaymentTest@6ee12bac]" started-at="2020-03-15T07:36:33Z" name="ReportSetup" finished-at="2020-03-15T07:36:33Z" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportSetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.Tests.SuccessfulPaymentTest@6ee12bac]" started-at="2020-03-15T07:36:33Z" name="setup" finished-at="2020-03-15T07:36:44Z" depends-on-methods="com.qa.BaseClass.BaseClass.ReportSetup" duration-ms="11449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SuccessfulPaymentTransaction()[pri:1, instance:com.qa.Tests.SuccessfulPaymentTest@6ee12bac]" started-at="2020-03-15T07:36:44Z" name="SuccessfulPaymentTransaction" description="Validation of Successful Payment Transaction" finished-at="2020-03-15T07:36:55Z" duration-ms="10739" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*******Screenshot captured for Successfull Transaction*********]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SuccessfulPaymentTransaction -->
+        <test-method signature="VerifySuccessMessage()[pri:2, instance:com.qa.Tests.SuccessfulPaymentTest@6ee12bac]" started-at="2020-03-15T07:36:55Z" name="VerifySuccessMessage" description="Verify Transaction Success message" finished-at="2020-03-15T07:36:56Z" duration-ms="494" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*******Screenshot captured for Verify Success Message*********]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifySuccessMessage -->
+        <test-method signature="FailedPaymentTransaction()[pri:3, instance:com.qa.Tests.SuccessfulPaymentTest@6ee12bac]" started-at="2020-03-15T07:36:56Z" name="FailedPaymentTransaction" description="Validation of failed Transaction" finished-at="2020-03-15T07:37:00Z" duration-ms="4249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FailedPaymentTransaction -->
+        <test-method signature="VerifyFailedTransactionMessage()[pri:4, instance:com.qa.Tests.SuccessfulPaymentTest@6ee12bac]" started-at="2020-03-15T07:37:00Z" name="VerifyFailedTransactionMessage" description="Verify failed transaction message" finished-at="2020-03-15T07:37:00Z" duration-ms="485" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*******Screenshot captured for Verify Faileds Message*********]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyFailedTransactionMessage -->
+        <test-method signature="VerifyFailedTransactionBankMessage()[pri:5, instance:com.qa.Tests.SuccessfulPaymentTest@6ee12bac]" started-at="2020-03-15T07:37:00Z" name="VerifyFailedTransactionBankMessage" description="Verify failed transaction message" finished-at="2020-03-15T07:37:01Z" duration-ms="411" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*******Screenshot captured for Verify Failed Bank Message*********]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyFailedTransactionBankMessage -->
+        <test-method is-config="true" signature="Exit()[pri:0, instance:com.qa.Tests.SuccessfulPaymentTest@6ee12bac]" started-at="2020-03-15T07:37:01Z" name="Exit" finished-at="2020-03-15T07:37:02Z" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.qa.Tests.SuccessfulPaymentTest@6ee12bac]" started-at="2020-03-15T07:37:02Z" name="endReport" finished-at="2020-03-15T07:37:02Z" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.qa.Tests.SuccessfulPaymentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
