@@ -14,6 +14,7 @@ Download maven from [here](https://maven.apache.org/download.cgi) and extract to
 
 Set the M2_HOME and MAVEN_HOME variable to maven installation folder
 
+![image](https://user-images.githubusercontent.com/8327438/76708305-d1365c00-671b-11ea-8554-6b4c806cd0fa.png)
 	 
 ##### Step 3: Include ‘maven/bin’ directory in ‘PATH’ variable
 To run maven from command prompt, this is necessary. Update the PATH variable with 'Maven-installation/bin' directory.
