@@ -26,11 +26,9 @@ Install Java from (https://www.oracle.com/java/technologies/javase-downloads.htm
     OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 
 ##### Step 5: Compile Project
-
-    * Open the command prompt 
-		* Navigate to the project folder
-		* Run mvn compile command. it will compile the project and download required jar files of selenium and testng
-		  to local repository folder. Make sure build is SUCCESS.
+* Open the command prompt 
+* Navigate to the project folder
+* Run mvn compile command. it will compile the project and download required jar files of selenium and testng to local repository folder. Make sure build is SUCCESS.
 
 ##### Step 6: Run Selenium Script
    In Command prompt , run either mvn package or mvn test command to run the selenium test. 
